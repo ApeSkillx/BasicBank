@@ -1,0 +1,32 @@
+[
+    {
+        "S_No": 6,
+        "Name": "Aaruhi",
+        "Account_Number": "23023500",
+        "Balance": 900000
+    },
+    {
+        "S_No": 7,
+        "Name": "Honey",
+        "Account_Number": "23038600",
+        "Balance": 60000
+    },
+    {
+        "S_No": 8,
+        "Name": "Prakhar",
+        "Account_Number": "23025400",
+        "Balance": 4500000
+    },
+    {
+        "S_No": 9,
+        "Name": "Rishab",
+        "Account_Number": "23039600",
+        "Balance": 200000
+    },
+    {
+        "S_No": 10,
+        "Name": "Piyush",
+        "Account_Number": "23039200",
+        "Balance": 143000
+    }
+]

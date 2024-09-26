@@ -1,0 +1,30 @@
+.table-container {
+    width: 100vw;
+    padding-left: 90px;
+}
+
+.header-container {    
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.h1{
+    font-family: sans-serif;
+}
+
+.refreshUser {
+    margin-left: 10px;
+    padding: 5px 15px;
+    background-color: #4CAF50; /* Green */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.refreshUser:hover {
+    background-color: #45a049; /* Darker green */
+}
